@@ -5,8 +5,37 @@ This is inspired by the "Falsehoods Programmers Believe" series of articles that
 ## Falsehoods About Computers in Education
 
 ### Kids are Digital Natives, they know how computers work.
-### Choosing the right language is important.
+
 ### All programming languages are interchangeable. It's just syntactic differences.
+
+While there are many core concepts that appear again and again throughout the field of computing, there are some significant differences between classes of languages.
+
+One important distinction is between imperative and declarative languages. Imperative languages (Python, JavaScript, Go) specify the exact sequence of steps that are to be taken in the exact order. Declarative languages (SQL, Haskell, Prolog) specify an end result and allow the system or runtime to determine the most effective way to obtain the result.
+
+Another distinction is the language style:
+
+* procedural - C
+* object oriented - Java
+* functional - Haskell
+* data-flow - Luna
+* logical - Prolog
+
+### Choosing the right language is critically important.
+
+Computing concepts such as flow control, boolean logic, and algorithm design are common to a wide variety of languages. These concepts can be explored successfully in languages from [Scratch](https://scratch.mit.edu/) to [OCaml](https://ocaml.org/).
+
+While the types and styles of various programming languages vary widely, the core concepts can, for the most part, be explored in any language and set a foundation for learning other languages.
+
+### It doesn't matter which programming language you choose.
+
+The counterpoint to the above, is that different types of languages can make implementing different algorithms or completing different tasks much harder or easier than other types.
+
+* [What is Good About Haskell? - Donnacha Oisín Kidney](https://doisinkidney.com/posts/2019-10-02-what-is-good-about-haskell.html)
+
+Additionally, some languages are more "feature rich" than others. Starting in something like Haskell will expose students to concepts such as algebraic data types, lazy evaluation, pure functions and immutability. While these concepts can in theory be explored in a language such as Java that is unlikely, especially in any context other than a highly advanced course.
+
+* [Dijkstra on Haskell and Java](https://chrisdone.com/posts/dijkstra-haskell-java/)
+
 ### Visual programming isn't "real programming".
 ### Having certifications is universally important.
 ### Having a degree is important.
