@@ -24,3 +24,13 @@ This is inspired by the "Falsehoods Programmers Believe" series of articles that
 ### Students will just "mess around" if they are not given detailed directions.
 ### Updating the curriculum is adequate.
 ### Test results are accurate indicators of students abilities.
+
+## Falsehoods About Mathematics
+
+### You won't have a calculator with you 24x7
+### The way math is currently taught is carefully considered to be the most effective method
+### Mathematics == Calculation
+### Mathematics can be memorized
+### Mathematics is mostly understood
+### The math you learn in school will be useful to you outside of school
+### The math you learn in school is the most applicable subset of mathematics for most jobs
