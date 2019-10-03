@@ -21,3 +21,6 @@ This is inspired by the "Falsehoods Programmers Believe" series of articles that
 ### Tech people won't teach because the pay is too low.
 ### Students need to have a path through the curriculum laid out ahead of time.
 ### Students need topics broken down into small atomic units that can be taught separately.
+### Students will just "mess around" if they are not given detailed directions.
+### Updating the curriculum is adequate.
+### Test results are accurate indicators of students abilities.
