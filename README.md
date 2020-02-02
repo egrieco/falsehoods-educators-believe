@@ -46,6 +46,12 @@ Additionally, some languages are more "feature rich" than others. Starting in so
 ### The teacher must fully understand the topic before they can teach it.
 ### People in industry are fully knowledgeable about their field.
 ### Popular languages are popular because they are the best.
+
+The vast majority of popular languages today are **imperative, procedural/object oriented** languages with **C like syntax**. None of these properties are necessarily that great, in fact there are serious drawbacks to all of them from a language theoretic standpoint.
+
+* [Let’s stop copying C / fuzzy notepad](https://eev.ee/blog/2016/12/01/lets-stop-copying-c/)
+* [A Reply to _Let's stop copying C_ - gingerBill](https://www.gingerbill.org/article/2020/01/25/a-reply-to-lets-stop-copying-c/)
+
 ### Partnering with a tech company will make classes better.
 ### Tech people won't teach because the pay is too low.
 ### Students need to have a path through the curriculum laid out ahead of time.
