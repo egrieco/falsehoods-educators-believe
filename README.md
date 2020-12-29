@@ -6,6 +6,23 @@ This is inspired by the "Falsehoods Programmers Believe" series of articles that
 
 ### Kids are Digital Natives, they know how computers work.
 
+Using an information appliance (iPhone or other touch device) does not increase one's ability to program a generalized computer. In fact, today's kids are generally **less knowledgable** about programming than previous generations.
+
+Old computers dropped users straight into the command line. There was little separation between using and programming the computer. Apple and other companies have moved to the App Store model which is far more locked down and makes programming the computer rather inaccessible. For a student wishing to program a computer today they must first perform the following steps (on macOS):
+
+1. Install Xcode Command Line Tools
+2. Install Hombrew
+3. Install updated, standard versions of Git and other tools
+4. install the package manager for the chosen language(s)
+5. Install the language version(s)
+6. Install a decent text editor
+7. Install package manager for text editor
+8. Install language extensions and plugins for text editor
+9. Get an Apple developer account if you wish to share your software with others
+10. Generate cryptographic keys for code signing
+11. Learn how to sign software
+12. Upload signed software to the App Store or other distribution channels
+
 ### All programming languages are interchangeable. It's just syntactic differences.
 
 While there are many core concepts that appear again and again throughout the field of computing, there are some significant differences between classes of languages.
