@@ -12,6 +12,12 @@ This is still in **draft** form. I've written down various falsehoods that I've 
 
 I'm sharing this repo more broadly in the interest of motivating myself and others to add detail and sources to the sections below, and also any topics or sections that I may have omitted.
 
+## Canonical Sources
+
+* [Keybase](keybase://team/comp_sci_edu/falsehoods-educators-believe)
+* [GitLab](https://gitlab.com/egx/falsehoods-educators-believe)
+* [GitHub](https://github.com/egx-org/falsehoods-educators-believe)
+
 ## Falsehoods About Computers in Education
 
 ### Kids are Digital Natives, they know how computers work.
