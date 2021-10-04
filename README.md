@@ -2,6 +2,10 @@
 
 This is inspired by the "Falsehoods Programmers Believe" series of articles that cover many unexpected edge cases for common problems. An extensive list of such articles can be found in the [awesome-falsehoods-programmers-believe](https://github.com/spickermann/awesome-falsehoods-programmers-believe) git repo.
 
+The goal of this repo is not to denigrate teachers, administrators, or students. Rather, it is phrased provocatively to catch attention and get people to examine their assumptions. Also, since I started this repo, I find the adversarial phrasing helpful in getting thoughts out of my head faster.
+
+Once this repository in a more complete state, I intend to compile the knowledge here into "how to" or other guidance documents that will look more familiar to educators and be a more comfortable read.
+
 ## Falsehoods About Computers in Education
 
 ### Kids are Digital Natives, they know how computers work.
