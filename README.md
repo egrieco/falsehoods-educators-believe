@@ -54,14 +54,23 @@ Additionally, some languages are more "feature rich" than others. Starting in so
 * [Dijkstra on Haskell and Java](https://chrisdone.com/posts/dijkstra-haskell-java/)
 
 ### Visual programming isn't "real programming".
+
 ### Having certifications is universally important.
+
 ### Having a degree is important.
+
 ### We should what industry does, they are cutting edge.
+
 ### You need to have the "correct" devices to learn tech.
+
 ### You have to have devices to learn tech.
+
 ### You have to learn specific topics in a specific order.
+
 ### The teacher must fully understand the topic before they can teach it.
+
 ### People in industry are fully knowledgeable about their field.
+
 ### Popular languages are popular because they are the best.
 
 The vast majority of popular languages today are **imperative, procedural/object oriented** languages with **C like syntax**. None of these properties are necessarily that great, in fact there are serious drawbacks to all of them from a language theoretic standpoint.
@@ -70,19 +79,31 @@ The vast majority of popular languages today are **imperative, procedural/object
 * [A Reply to _Let's stop copying C_ - gingerBill](https://www.gingerbill.org/article/2020/01/25/a-reply-to-lets-stop-copying-c/)
 
 ### Partnering with a tech company will make classes better.
+
 ### Tech people won't teach because the pay is too low.
+
 ### Students need to have a path through the curriculum laid out ahead of time.
+
 ### Students need topics broken down into small atomic units that can be taught separately.
+
 ### Students will just "mess around" if they are not given detailed directions.
+
 ### Updating the curriculum is adequate.
+
 ### Test results are accurate indicators of students abilities.
 
 ## Falsehoods About Mathematics
 
 ### You won't have a calculator with you 24x7
+
 ### The way math is currently taught is carefully considered to be the most effective method
+
 ### Mathematics == Calculation
+
 ### Mathematics can be memorized
+
 ### Mathematics is mostly understood
+
 ### The math you learn in school will be useful to you outside of school
+
 ### The math you learn in school is the most applicable subset of mathematics for most jobs
