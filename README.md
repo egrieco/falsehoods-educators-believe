@@ -6,6 +6,12 @@ The goal of this repo is not to denigrate teachers, administrators, or students.
 
 Once this repository in a more complete state, I intend to compile the knowledge here into "how to" or other guidance documents that will look more familiar to educators and be a more comfortable read.
 
+## Status
+
+This is still in **draft** form. I've written down various falsehoods that I've come across talking with educators at conferences, during consulting work, and things I've read about in the press and trade papers.
+
+I'm sharing this repo more broadly in the interest of motivating myself and others to add detail and sources to the sections below, and also any topics or sections that I may have omitted.
+
 ## Falsehoods About Computers in Education
 
 ### Kids are Digital Natives, they know how computers work.
